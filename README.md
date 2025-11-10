@@ -85,4 +85,44 @@ The dataset contains customer transaction and subscription details.
 | Minor seasonal drop in recent months | Investigate churn or pricing strategy |
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🧩 Project Structure
